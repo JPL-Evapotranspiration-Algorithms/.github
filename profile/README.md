@@ -1,6 +1,6 @@
 # Jet Propulsion Laboratory Evapotranspiration Remote Sensing Algorithms
 
-This organization will contain the evapotranspiration remote sensing algorithms developed at NASA Jet Propulsion laboratory for the ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) and Surface Biology and Geology (SBG) missions. These algorithms are being developed by a NASA Research Opportunities in Space and Earth Sciences (ROSES) project *Thermally Sensitive ECOSTRESS Evapotranspiration Model Ensemble Evaluation and Development*.
+This organization will contain the evapotranspiration remote sensing algorithms developed at NASA Jet Propulsion laboratory for the ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) and [Surface Biology and Geology (SBG)](https://github.com/sbg-tir) missions. These algorithms are being developed by a NASA Research Opportunities in Space and Earth Sciences (ROSES) project *Thermally Sensitive ECOSTRESS Evapotranspiration Model Ensemble Evaluation and Development*.
 
 The algorithms under development here include:
 - [Surface Temperature Initiated Closure (STIC)](https://github.com/JPL-Evapotranspiration-Algorithms/STIC)
