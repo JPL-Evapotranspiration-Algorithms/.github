@@ -7,4 +7,5 @@ The algorithms under development here include:
 - [Breathing Earth System Simulator (BESS)](https://github.com/JPL-Evapotranspiration-Algorithms/BESS)
 - [Priestley Taylor Jet Propulsion Laboratory (PT-JPL)](https://github.com/JPL-Evapotranspiration-Algorithms/PT-JPL)
 - [Priestley Taylor Jet Propulsion Laboratory Soil Moisture (PT-JPL-SM)](https://github.com/JPL-Evapotranspiration-Algorithms/PT-JPL-SM)
-- [MOD16](https://github.com/JPL-Evapotranspiration-Algorithms/MOD16)
+
+The [MOD16](https://github.com/JPL-Evapotranspiration-Algorithms/MOD16) algorithm from VIIRS Collection 2 is also being adapted for use by ECOSTRESS and SBG as well as [pyTSEB](https://github.com/JPL-Evapotranspiration-Algorithms/pyTSEB).
